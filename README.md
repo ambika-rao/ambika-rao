@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Ambika 👋
 
 <!--
 **ambika-rao/ambika-rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Mathematics of Finance student at NJIT.
+
+## Interests
+- Finance
+- Quantitative Analysis
+- Python
+- Financial Modeling
+
+## Current Projects
+- Market Performance & Risk Analysis Dashboard
